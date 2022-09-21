@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\src\BitExtensions\BitExtensions.csproj">
-      <Project>{c7739906-edfd-4fd7-9fc4-ce2c49f9028b}</Project>
+      <Project>{8cb1e6b5-8a4a-4266-93de-6574e2375e50}</Project>
       <Name>BitExtensions</Name>
     </ProjectReference>
   </ItemGroup>
