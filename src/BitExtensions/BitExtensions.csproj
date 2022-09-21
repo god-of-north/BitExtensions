@@ -4,8 +4,8 @@
     <TargetFrameworks>netstandard1.0;net35</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>GON.BitExtensions</Title>
-    <FileVersion>1.1.0.0</FileVersion>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.1</FileVersion>
+    <AssemblyVersion>1.1.0.1</AssemblyVersion>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/god-of-north/BitExtensions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
@@ -13,9 +13,11 @@
     <PackageProjectUrl>https://github.com/god-of-north/BitExtensions</PackageProjectUrl>
     <Description>.NET Extensions to simplify work with bits</Description>
     <PackageId>GON.BitExtensions</PackageId>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <Authors>Maksym Lesyk</Authors>
     <Product>GON.BitExtensions</Product>
+    <RootNamespace>GON.Extensions</RootNamespace>
+    <AssemblyName>GON.BitExtensions</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
